@@ -1,0 +1,543 @@
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Memory.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Memory.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\UserUI\QuanLyBanHoa\obj\Debug\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Sell.resources
+F:\Cong Nghe Phan Mem\Project Selling Flower\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.dll
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.xml
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Do-An-Quan-Ly-Ban-Hoa\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\FontAwesome.Sharp.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csprojAssemblyReference.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.MainScreen.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.login.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Products.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.GenerateResource.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CoreCompileInputs.cache
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CopyComplete
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+F:\Cong Nghe Phan Mem\Source code\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Buffers.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Memory.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csprojAssemblyReference.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\Application.csproj.CopyComplete
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.exe
+C:\Users\nguye\OneDrive\Desktop\DEADLINE\Do-An-Quan-Ly-Ban-Hoa-main\QuanLyCuaHangBanHoa\Application\QuanLyBanHoa\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\QuanLyHeThongCayGiaDinh\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DevExpress.CrossPlatform.Printing.DrawingEngine.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+C:\Users\Admin\Desktop\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddKho.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddNCC.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserManagement.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+D:\backup\Môn Học\CSDLPT\Final\PTTKYC_Final-main\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddAccount.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddAccount.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddKho.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddNCC.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.InventoryManagement.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.ProvidersManagement.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.StorageManagement.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe.licenses
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+C:\Users\l\Downloads\PTTKYC_Final-main\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.StorageManagement.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddAccount.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddKho.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddNCC.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.InventoryManagement.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.ProvidersManagement.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.StorageManagement.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.StorageManagement.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe.licenses
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Statistics.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.PrintInvoice.resources
+C:\Users\Admin\Desktop\11-5\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.PrintInventory.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe.config
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.exe
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\QuanLyBanHoa.pdb
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\CairoSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\FontAwesome.Sharp.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\GLibSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\PangoSharp.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Drawing.Common.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\DynamicData.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\EntityFramework.SqlServer.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\ReactiveUI.Winforms.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\Splat.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Buffers.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Memory.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Numerics.Vectors.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Reactive.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.AssemblyReference.cache
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.SuggestedBindingRedirects.cache
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddAccount.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddKho.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddNCC.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.AddProduct.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ChangePassword.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.CreateAccount.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Customers.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.ImportGoods.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.InventoryManagement.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.PrintInventory.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.PrintInvoice.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.ProvidersManagement.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.SellProduct.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Setting.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.Statistics.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.StorageManagement.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.UserInformation.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Forms.StorageManagement.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.MainScreen.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.login.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Products.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.Properties.Resources.resources
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.GenerateResource.cache
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe.licenses
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CoreCompileInputs.cache
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\Application.csproj.CopyComplete
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.exe
+D:\backup\Môn Học\CSDLPT\Final\11-5 (3)\Quanlycuahang\Application\QuanLyHTCayGiaDinh\obj\Debug\QuanLyBanHoa.pdb

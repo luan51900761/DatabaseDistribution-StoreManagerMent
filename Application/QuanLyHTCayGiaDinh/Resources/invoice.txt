@@ -1,0 +1,55 @@
+﻿<!DOCTYPE html>
+<html>
+
+<head>
+    <meta charset="utf-8" />
+    <style>
+        html {
+            background-color: black;
+        }
+        body {
+            padding: 1rem;
+            box-sizing: border-box;
+            font-family: sans-serif;
+            width: 400px;
+            background-color: white;
+        }
+
+        .table {
+            width: 100%;
+        }
+
+        .heading {
+            font-weight: bold;
+        }
+
+        td {
+            padding: 4px;
+        }
+    </style>
+</head>
+
+<body>
+    <div class="invoice-box">
+        <p> Hóa đơn số #: {{mahd}}<br /> Ngày: {{ngay}}<br /> </p>
+        <p> <br /> Tên khách hàng: {{customerName}}<br />Số điện thoại: {{customerPhone}} </p>
+        <table border="1" style="border-collapse: collapse;" class="table">
+            <thead class="heading">
+                <tr>
+                    <td>Vật phẩm</td>
+                    <td>Giá</td>
+                    <td>Số lượng</td>
+                </tr>
+            </thead>
+
+            <tbody>
+
+                {{list}}
+
+            </tbody>
+        </table>
+        <p>Tổng: {{tong}} vnd</p>
+    </div>
+</body>
+
+</html>
